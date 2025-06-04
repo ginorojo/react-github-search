@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://ginorojo.github.io/react-github-search/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
