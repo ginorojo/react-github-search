@@ -61,11 +61,11 @@ export default function Cards({ user }) {
               </p>
               <div className="flex gap-2.5">
                 <div className="flex items-center gap-1">
-                  <img src="/public/Nesting.svg" alt="Forks" />
+                  <img src="Nesting.svg" alt="Forks" />
                   <span>{repo.forks_count}</span>
                 </div>
                 <div className="flex items-center gap-1">
-                  <img src="/public/Star.svg" alt="Stars" />
+                  <img src="Star.svg" alt="Stars" />
                   <span>{repo.stargazers_count}</span>
                 </div>
               </div>
