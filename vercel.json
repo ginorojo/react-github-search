@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/linkedin-preview.html", "destination": "/linkedin-preview.html" }
+  ]
+}
